@@ -4,5 +4,14 @@
 2. [The Internet of Money](https://www.youtube.com/watch?v=rc744Z9IjhY&list=PLPQwGV1aLnTvckLyD3vGEuDHSFRzPt4kP) (youtube- video's from a vetran)
 ## web3 Roadmap
 * [Make sense roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
-## solidity Education
+## Learn
+### solidity Education
 1. [CryptoZombie](https://cryptozombies.io/en/course) (basic smart contract)
+
+## Build 
+### hackathons
+
+## Apply
+### Teach
+### Interships
+### Jobs
