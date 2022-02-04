@@ -13,6 +13,7 @@
 3. [Polygon Dev docs.](https://docs.polygon.technology/)
 4. [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.6.5+commit.f956cc89.js)
 5. [Usual Elementary programs to write](https://adriann.github.io/programming_problems.html)
+6. [ETHEREUM BOOK](https://github.com/ethereumbook/ethereumbook)
 ### resources where you can find resources. 
 1. [Kernal Community Resources](https://kernel.community/en/resources/)
 2. [One of the How to become Web3 Developer](https://docs.google.com/document/d/1wbkE6s6CwnE4vbQTEwa9MrUqG6lKRGTrmjC9qzgyhAM/edit#)
