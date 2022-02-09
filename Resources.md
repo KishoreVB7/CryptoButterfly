@@ -19,6 +19,7 @@
 2. [One of the How to become Web3 Developer](https://docs.google.com/document/d/1wbkE6s6CwnE4vbQTEwa9MrUqG6lKRGTrmjC9qzgyhAM/edit#)
 3. [Encode Club](https://www.encode.club/) (learn, hack resources etc.)
 4. [Solidity Crash Course](https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74)
+5. [web3 Resourded](https://www.useweb3.xyz/)
 
 ## web3 Roadmap
 * [Make sense roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
